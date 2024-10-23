@@ -14,6 +14,16 @@ console.log( valueInNumber) // NaN => type - not occured strick check
 //true => 1
 //undefined => NaN
 
-let isLoggedIn = 1
+let isLoggedIn=1
 
 let booleanISLoggedIn=Boolean (isLoggedIn)
+
+console.log(booleanISLoggedIn)
+
+//1 => true
+//""=>false
+//"data"=>true
+//0=>false
+let scorej=10
+let data=String(scorej)
+console.log(typeof data)
