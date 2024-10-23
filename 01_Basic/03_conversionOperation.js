@@ -27,3 +27,4 @@ console.log(booleanISLoggedIn)
 let scorej=10
 let data=String(scorej)
 console.log(typeof data)
+
